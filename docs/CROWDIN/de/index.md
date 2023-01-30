@@ -7,6 +7,7 @@ Ich möchte die Synchronisationsfunktion zwischen Github und Crowdin ausprobiere
 Und ich möchte prüfen, ob ich die Intergation für die Erstellung sprachabhängiger Abzeichen aktivieren kann.
 
 :::{toctree}
+
 :caption: AndroidAPS Usage
 
 Objectives <./Usage/Objectives.md>
@@ -32,6 +33,8 @@ Android auto <./Usage/Android-auto.md>
 :::
 
 :::{toctree}
+
+:caption: Sandbox
 
 Sandbox <./Sandbox/sandbox1.md>
 
