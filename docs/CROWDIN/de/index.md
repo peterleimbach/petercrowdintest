@@ -32,7 +32,6 @@ Android auto <./Usage/Android-auto.md>
 :::
 
 :::{toctree}
-:caption: Sandbox
 
 Sandbox <./Sandbox/sandbox1.md>
 
