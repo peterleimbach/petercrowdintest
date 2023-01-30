@@ -23,6 +23,7 @@ Careportal (discontinued) <./Usage/CPbefore26.md>
 Automation with 3rd party apps <./Usage/automationwithapp.md>
 Android auto <./Usage/Android-auto.md>
 :::
+
 :::{toctree}
 
 :titlesonly: true
