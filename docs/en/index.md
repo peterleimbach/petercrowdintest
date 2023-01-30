@@ -7,8 +7,10 @@ I want to try the sync feature between Github and Crowdin,
 And I want to check if I can enable the intergation for creating language dependent badges.
 
 :::{toctree}
-:caption: AndroidAPS Usage
+
 :titlesonly: true
+
+:caption: AndroidAPS Usage
 
 Objectives <./Usage/Objectives.md>
 OpenAPS features <./Usage/Open-APS-features.md>
@@ -22,8 +24,10 @@ Automation with 3rd party apps <./Usage/automationwithapp.md>
 Android auto <./Usage/Android-auto.md>
 :::
 :::{toctree}
-:caption: Sandbox
+
 :titlesonly: true
+
+:caption: Sandbox
 
 Sandbox <./Sandbox/sandbox1.md>
 :::
