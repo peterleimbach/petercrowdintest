@@ -87,6 +87,6 @@ Settings backup is encrypted by a master password that can be set in [Preference
 
 ## Transférer les paramètres
 
-- Best way to transfer settings file to a new phone is via USB cable or cloud service (i.e. Google Drive).
+- Best way to transfer settings file to a new phone is via USB cable or cloud service (i.e. Google Drive). Google Drive).
 - Manuals can be found on the web, i.e. [Android help pages](https://support.google.com/android/answer/9064445?hl=en).
 - If you experience problems with the transferred file try another way to transfer file.
