@@ -11,7 +11,7 @@
 
 * Recommandé uniquement pour des "boucleurs" expérimentés (certains paramètres ne sont pas reconnaissables, vous devez savoir par l'expérience acquise avec un smartphone android AAPS, comment et où ces paramètres sont situés. Certains boutons AAPS sont difficiles à toucher avec beaucoup de doigté, mais pas avec des gros doigts.)
 * Peut uniquement être utilisé comme "téléphone de boucle". Il est préférable d'avoir un smartphone normal dans votre poche.
-* Si vous ne traitez pas Jelly comme une diva (Emportez-la toujours avec vous!) Si vous ne traitez pas Jelly comme une diva (Emportez-la toujours avec vous!) Jelly montre son côté garce, déconnecte tous les Bluetooth et boude jusqu'à ce que vous redémarriez.
+* Si vous ne traitez pas Jelly comme une diva (Emportez-la toujours avec vous!) Si vous ne traitez pas Jelly comme une diva (Emportez-la toujours avec vous!) Jelly montre son côté garce, déconnecte tous les Bluetooth et boude jusqu'à ce que vous redémarriez. Si vous ne traitez pas Jelly comme une diva (Emportez-la toujours avec vous!) Jelly montre son côté garce, déconnecte tous les Bluetooth et boude jusqu'à ce que vous redémarriez.
 
 ## Jelly Pro - optimisation de la durée de vie de la batterie
 

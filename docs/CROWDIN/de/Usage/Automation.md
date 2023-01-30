@@ -143,7 +143,7 @@ Ce ne sont que des exemplesde configuration, pas des conseils. Ne les reproduise
 
 Ceci est pour quelqu'un qui veut avoir automatiquement une cible temporaire d'hypo lorsque sa glycémie est basse.
 
-### Cible Temp. Cible Temp. heure du repas
+### Cible Temp. Cible Temp. heure du repas Cible Temp. heure du repas
 
 ```{image} ../images/Automation3.png
 :alt: Automatisation3
