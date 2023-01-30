@@ -8,9 +8,13 @@ And I want to check if I can enable the intergation for creating language depend
 
 :::{toctree}
 
-:titlesonly: true
-
 :caption: AndroidAPS Usage
+
+:::
+
+:::{toctree}
+
+:titlesonly: true
 
 Objectives <./Usage/Objectives.md>
 
@@ -31,6 +35,12 @@ Careportal (discontinued) <./Usage/CPbefore26.md>
 Automation with 3rd party apps <./Usage/automationwithapp.md>
 
 Android auto <./Usage/Android-auto.md>
+
+:::
+
+:::{toctree}
+
+:caption: Sandbox
 
 :::
 
