@@ -1,4 +1,4 @@
-# Ceci est un test
+# This is a test
 
 This is a very simple test file for setting up a multi language repository in Github/Crowdin.
 
