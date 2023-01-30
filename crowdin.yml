@@ -2,4 +2,4 @@ files:
   - source: /docs/en/**/*.md
     translation: /docs/CROWDIN/%two_letters_code%/**/%original_file_name%
   - source: /docs/en/*.py
-    translation: /CROWDIN/%two_letters_code%/%original_file_name%
+    translation: /docs/CROWDIN/%two_letters_code%/%original_file_name%
