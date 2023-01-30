@@ -11,7 +11,7 @@
 
 * Recommandé uniquement pour des "boucleurs" expérimentés (certains paramètres ne sont pas reconnaissables, vous devez savoir par l'expérience acquise avec un smartphone android AAPS, comment et où ces paramètres sont situés. Certains boutons AAPS sont difficiles à toucher avec beaucoup de doigté, mais pas avec des gros doigts.)
 * Peut uniquement être utilisé comme "téléphone de boucle". Il est préférable d'avoir un smartphone normal dans votre poche.
-* Si vous ne traitez pas Jelly comme une diva (Emportez-la toujours avec vous!) Jelly montre son côté garce, déconnecte tous les Bluetooth et boude jusqu'à ce que vous redémarriez.
+* Si vous ne traitez pas Jelly comme une diva (Emportez-la toujours avec vous!) Si vous ne traitez pas Jelly comme une diva (Emportez-la toujours avec vous!) Jelly montre son côté garce, déconnecte tous les Bluetooth et boude jusqu'à ce que vous redémarriez.
 
 ## Jelly Pro - optimisation de la durée de vie de la batterie
 
@@ -29,7 +29,7 @@ Suivre ces règles pour rester sous Android 7.0 :
 * Ignorez la configuration du réseau wifi.
 * La configuration du compte Google hors ligne est la seule chose qui ne peut pas être ignorée.
 * Accédez aux paramètres et désactivez la mise à jour automatique (Paramètres > Système > A propos du téléphone > Mise à jour du système > menu à trois points en haut à droite > Paramètres > Vérification automatique des mises à jour > Une fois)
-* Chaque fois que vous activez le wifi ou le réseau mobile, vous serez informé qu'une mise à jour du système est disponible. Ne pas mettre à jour ! Il est préférable de supprimer la notification afin de ne pas faire la mise à jour accidentellement. Cela ne serait pas si facile à annuler.
+* Chaque fois que vous activez le wifi ou le réseau mobile, vous serez informé qu'une mise à jour du système est disponible. Ne pas mettre à jour ! Il est préférable de supprimer la notification afin de ne pas faire la mise à jour accidentellement. Il est préférable de supprimer la notification afin de ne pas faire la mise à jour accidentellement. Cela ne serait pas si facile à annuler.
 * Les applications installées peuvent et doivent être mises à jour.
 
 ![Paramètres Jelly](../images/jelly_02.jpg)
