@@ -65,7 +65,7 @@ Contenu de la requête :
 
 * targetTop / targetBottom: La valeur de la CT haute (la valeur haute et basse doivent être les mêmes)
 * duration: La durée de la CT haute (Après cette durée, il reviendra à la cible du profil standard sauf si l'activité se poursuit).
-* secret : votre hachage SHA1 de l'API. Ce n'est PAS votre clé api ! Vouc pouvez convertir votre clé API au format SHA1 sur <http://www.sha1-online.com/>
+* secret : votre hachage SHA1 de l'API. Ce n'est PAS votre clé api ! Ce n'est PAS votre clé api ! Vouc pouvez convertir votre clé API au format SHA1 sur <http://www.sha1-online.com/>
 
 Sauvegarde : Appuyez sur 'Save' après chaque modification de bloc puis sur le flèche de retour arrière
 
@@ -81,7 +81,7 @@ Vous devez d'abord ajouter une alerte haute dans xDrip + comme ceci :
 
 ![Réglages d'alerte xDrip+](../images/automate-xdrip1.png)
 
-Nom de l'alerte : (Faire attention à lui !) Ce nom est essentiel pour déclencher le script. Il doit être clair et ne pas être similaire à tous les autres noms d'alertes. Par exemple : '180alarm' ne doit pas exister à côté d'une alerte '80alarm'.
+Nom de l'alerte : (Faire attention à lui !) Ce nom est essentiel pour déclencher le script. Ce nom est essentiel pour déclencher le script. Il doit être clair et ne pas être similaire à tous les autres noms d'alertes. Par exemple : '180alarm' ne doit pas exister à côté d'une alerte '80alarm'.
 
 Seuil : valeur GLY qui doit déclencher l'alerte élevé.
 
@@ -111,7 +111,7 @@ Contenu de la requête :
 
 * targetTop / targetBottom : la valeur de la CT faible (les 2 doivent avoir la même valeur)
 * duration : la durée de votre CT faible (après cette durée AAPS reviendra à la cible standard de votre profil). Il est recommandé de mettre la même valeur que 'Snooze par défaut' de l'alerte xDrip+
-* secret : votre hachage SHA1 de l'API. Ce n'est PAS votre clé api ! Vouc pouvez convertir votre clé API au format SHA1 sur <http://www.sha1-online.com/>
+* secret : votre hachage SHA1 de l'API. Ce n'est PAS votre clé api ! Ce n'est PAS votre clé api ! Vouc pouvez convertir votre clé API au format SHA1 sur <http://www.sha1-online.com/>
 
 Sauvegarde : Appuyez sur 'Save' après chaque modification de bloc puis sur le flèche de retour arrière
 
