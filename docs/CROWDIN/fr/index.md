@@ -13,13 +13,16 @@ And I want to check if I can enable the intergation for creating language depend
 :caption: AndroidAPS Usage
 
 Objectives <./Usage/Objectives.md> OpenAPS features <./Usage/Open-APS-features.md> COB calculation <./Usage/COB-calculation.md> Profile switch <./Usage/Profiles.md> Temp-targets <./Usage/temptarget.md> Extended carbs <./Usage/Extended-Carbs.md> Automation <./Usage/Automation.md> Careportal (discontinued) <./Usage/CPbefore26.md> Automation with 3rd party apps <./Usage/automationwithapp.md> Android auto <./Usage/Android-auto.md>
-:::      
+:::        
 :::{toctree}
 :caption: Sandbox :titlesonly: true
 
 :titlesonly: true
 
 :caption: Sandbox
+
+Sandbox <./Sandbox/sandbox1.md>
+:::
 
 Sandbox <./Sandbox/sandbox1.md>
 :::
