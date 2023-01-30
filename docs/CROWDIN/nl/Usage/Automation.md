@@ -135,7 +135,7 @@ Ce ne sont que des exemplesde configuration, pas des conseils. Ne les reproduise
 - Setting temp target for activities based on time, location, connection to a bluetooth device...
 - Setting eating soon temp targets based on time, location...
 
-### Cible temp. Glycémie basse
+### Cible Temp. heure du repas
 
 ```{image} ../images/Automation2.png
 :alt: Automatisation2

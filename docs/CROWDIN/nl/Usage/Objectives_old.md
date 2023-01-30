@@ -55,7 +55,7 @@ If you want to go back in objectives see [explanation below](../Usage/Objectives
 - Select Open Loop either from Preferences, or by pressing and holding the Loop button in top left of the home screen.
 - Work through the [Preferences](../Configuration/Preferences.md) to set up for you.
 - Manually enact at least 20 of the temporary basal rate suggestions over a period of 7 days; input them to your pump and confirm in AndroidAPS that you have accepted them.  Assurez-vous que ces données apparaissent bien dans AndroidAPS et dans Nightscout.
-- Enable [temp targets](../Usage/temptarget.md) if necessary. Utilisez des cibles temp. hypo temp pour éviter que le système ne corrige trop fortement une augmentation de la glycémie après une hypo.
+- Enable [temp targets](../Usage/temptarget.md) if necessary. Utilisez des cibles temp. Utilisez des cibles temp. hypo temp pour éviter que le système ne corrige trop fortement une augmentation de la glycémie après une hypo.
 
 ### Réduire le nombre de notifications
 

@@ -91,9 +91,9 @@ SMB ne fonctionne que lorsqu'il y a des glucides actifs (GA).
 
 SMB fonctionne quand il y a une cible temporaire faible ou élevée (Repas imminent, Activité, Hypo, Personnalisé)
 
-### Activer SMB avec cibles temp. hautes
+### Activer SMB avec cibles temp. hautes hautes
 
-SMB fonctionne lorsqu'il existe une cible temporaire élevée active (activité, hypo). Cette option peut limiter d'autres paramètres SMB, par ex. si ‘SMB avec les cibles temporaires‘ est activé et que ‘SMB avec des cibles temp. hautes‘ est désactivé, SMB fonctionnera seulement avec des cibles temp basses et pas avec des cibles temp hautes. C'est la même chose pour Activer SMB avec les glucides : si 'SMB avec cible temp. hautes' est désactivé, il n'y aura pas de SMB avec une cible temp haute même s'il y a des glucides actifs.
+SMB fonctionne lorsqu'il existe une cible temporaire élevée active (activité, hypo). Cette option peut limiter d'autres paramètres SMB, par ex. si ‘SMB avec les cibles temporaires‘ est activé et que ‘SMB avec des cibles temp. hautes‘ est désactivé, SMB fonctionnera seulement avec des cibles temp basses et pas avec des cibles temp hautes. hautes‘ est désactivé, SMB fonctionnera seulement avec des cibles temp basses et pas avec des cibles temp hautes. C'est la même chose pour Activer SMB avec les glucides : si 'SMB avec cible temp. C'est la même chose pour Activer SMB avec les glucides : si 'SMB avec cible temp. hautes' est désactivé, il n'y aura pas de SMB avec une cible temp haute même s'il y a des glucides actifs.
 
 ### Activer en permanence les SMB
 
@@ -123,11 +123,11 @@ Avec cette option activée, l'algorithme SMB peut détecter des repas non signal
 
 **Par conséquent, les RNS doivent toujours être activés lors de l'utilisation de SMB.**
 
-### Cible temp. haute élève la sensibilité
+### Cible temp. Cible temp. haute élève la sensibilité
 
 Si vous activez cette option, la sensibilité à l'insuline sera augmentée avec une cible temp supérieure à 100 mg/dl ou 5,6 mmol/l. Cela signifie que la SI augmentera alors que le G/I et le débit de base diminueront.
 
-### Cible temp. basse abaisse la sensibilité
+### Cible temp. Cible temp. basse abaisse la sensibilité
 
 Si vous activez cette option, la sensibilité à l'insuline sera diminuée avec une cible temp inférieure à 100 mg/dl ou 5,6 mmol/l. Cela signifie que la SI diminuera alors que le G/I et le débit de base augmenteront.
 
