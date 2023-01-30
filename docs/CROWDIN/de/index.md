@@ -1,10 +1,10 @@
-# Dies ist ein Test
+# This is a test
 
-Dies ist eine sehr einfache Testdatei, um ein mehrsprachiges Repository in Github/Crowdin einzurichten.
+This is a very simple test file for setting up a multi language repository in Github/Crowdin.
 
-Ich möchte die Synchronisationsfunktion zwischen Github und Crowdin ausprobieren
+I want to try the sync feature between Github and Crowdin,
 
-Und ich möchte prüfen, ob ich die Intergation für die Erstellung sprachabhängiger Abzeichen aktivieren kann.
+And I want to check if I can enable the intergation for creating language dependent badges.
 
 :::{toctree}
 
