@@ -1,10 +1,10 @@
-# This is a test
+# Dies ist ein Test
 
-This is a very simple test file for setting up a multi language repository in Github/Crowdin.
+Dies ist eine sehr einfache Testdatei, um ein mehrsprachiges Repository in Github/Crowdin einzurichten.
 
-I want to try the sync feature between Github and Crowdin,
+Ich möchte die Synchronisationsfunktion zwischen Github und Crowdin ausprobieren
 
-And I want to check if I can enable the intergation for creating language dependent badges.
+Und ich möchte prüfen, ob ich die Intergation für die Erstellung sprachabhängiger Abzeichen aktivieren kann.
 
 :::{toctree}
 
@@ -41,4 +41,5 @@ Android auto <./Usage/Android-auto.md>
 :caption: Sandbox
 
 Sandbox <./Sandbox/sandbox1.md>
+
 :::
