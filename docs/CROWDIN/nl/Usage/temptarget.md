@@ -4,7 +4,7 @@
 
 Avec « Cibles Temporaires » (ou CT), vous pouvez changer votre objectif glycémique pendant une certaine période de temps. Comme cela est surtout nécessaire pour de l'activité, des hypos (traitement de glucides) ou proche d'un repas, vous pouvez configurer des CT par défaut. Pour configurer ces CT, vous pouvez accéder au menu situé dans le coin en haut à droite et aller dans Préférences -> Autres -> Cibles Temporaires par défaut.
 
-![Définir les cibles temp. par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut](../images/TempTarget_Default.png)
+![Définir les cibles temp. par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut par défaut](../images/TempTarget_Default.png)
 
 Pour utiliser une de ces « Cibles temporaires par défaut », vous pouvez faire un appui court sur votre cible dans le coin droit en haut de l'onglet Aperçu (ou Accueil) pour afficher la boite de dialogue Cible Temporaire ou encore utiliser les raccourcis dans le bouton orange « Glucides ». To manually set a [“Custom Temp-Target”](../Usage/temptarget.md#custom-temp-target) (BG value and/or duration), short click on your target in the top right corner or use the “Temporary Target“ button in the [actions tab / menu](../Configuration/Config-Builder#actions).
 
