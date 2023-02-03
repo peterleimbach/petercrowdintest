@@ -4,6 +4,13 @@ This is a very simple test file for setting up a multi language repository in Gi
 
 I want to try the sync feature between Github and Crowdin,
 
+:::{admonition} Ask for help - Writing Docs
+:class: note
+
+Please don't be shy, we need support in creating the documentation. A pull request is relatively simple to create. You can't break anything. There are release procedures. If you just want to talk in the beginning to see how you can help, give us a shout on Discord or Facebook. In this day and age, a telco is quickly arranged and we can discuss how you can best get involved and how we can show you the first steps.
+
+:::
+
 And I want to check if I can enable the intergation for creating language dependent badges.
 
 :::{toctree}
