@@ -1,6 +1,6 @@
 # Dies ist ein Test
 
-It's 03.02.2023 at 17:22 o'clock.
+Es ist 03.02.2023 um 17:22 Uhr.
 
 Dies ist eine sehr einfache Testdatei, um ein mehrsprachiges Repository in Github/Crowdin einzurichten.
 
