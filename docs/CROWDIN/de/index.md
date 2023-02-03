@@ -9,31 +9,32 @@ Ich möchte die Synchronisationsfunktion zwischen Github und Crowdin ausprobiere
 Und ich möchte prüfen, ob ich die Intergation für die Erstellung sprachabhängiger Abzeichen aktivieren kann.
 
 :::{toctree}
-:caption: AndroidAPS Usage
+:caption: AndroidAPS Nutzung
 
-Objectives <./Usage/Objectives.md>
+Ziele <./Usage/Objectives.md>
 
-OpenAPS features <./Usage/Open-APS-features.md>
+OpenAPS-Funktionen <./Usage/Open-APS-features.md>
 
-COB calculation <./Usage/COB-calculation.md>
+COB Berechnung <./Usage/COB-calculation.md>
 
-Profile switch <./Usage/Profiles.md>
+Profilwechsel <./Usage/Profiles.md>
 
-Temp-targets <./Usage/temptarget.md>
+Temporäre Ziele <./Usage/temptarget.md>
 
-Extended carbs <./Usage/Extended-Carbs.md>
+Erweiterte Kohlenhydrate <./Usage/Extended-Carbs.md>
 
-Automation <./Usage/Automation.md>
+Automatisierung <./Usage/Automation.md>
 
-Careportal (discontinued) <./Usage/CPbefore26.md>
+Karriereportal (eingestellt) <./Usage/CPbefore26.md>
 
-Automation with 3rd party apps <./Usage/automationwithapp.md>
+Automatisierung mit Drittanbieter-Apps <./Usage/automationwithapp.md>
 
 Android auto <./Usage/Android-auto.md>
 
 :::
 
 :::{toctree}
+:caption: Sandbox
 
 Sandbox <./Sandbox/sandbox1.md>
 
