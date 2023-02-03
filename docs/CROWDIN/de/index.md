@@ -4,10 +4,10 @@ This is a very simple test file for setting up a multi language repository in Gi
 
 I want to try the sync feature between Github and Crowdin,
 
-:::{admonition} Ask for help - Writing Docs
+:::{admonition} um Hilfe bitten - Schreiben von Docs
 :class: note
 
-Please don't be shy, we need support in creating the documentation. A pull request is relatively simple to create. You can't break anything. There are release procedures. If you just want to talk in the beginning to see how you can help, give us a shout on Discord or Facebook. In this day and age, a telco is quickly arranged and we can discuss how you can best get involved and how we can show you the first steps.
+Bitte scheuen Sie sich nicht, wir benötigen Unterstützung beim Erstellen der Dokumentation. Ein Pull-Request ist relativ einfach zu erstellen. Du kannst nichts zerstören. Es gibt Freigabeverfahren. Wenn du am Anfang reden möchtest um zu sehen, wie du helfen kannst, gib uns einen Shout auf Discord oder Facebook. In dieser Zeit Ein Telco ist schnell arrangiert und wir diskutieren darüber, wie Sie sich am besten einbringen können und wie wir Ihnen die ersten Schritte zeigen können.
 
 :::
 
