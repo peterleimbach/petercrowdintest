@@ -59,7 +59,7 @@ If your brwoser will not display all icons in once please press refresh. Theses 
 :::{toctree}
 :caption: Change language
 
-Change language <./changelanguage.md>
+Language<./changelanguage.md>
 
 :::
 
@@ -70,7 +70,7 @@ Safety first <./Getting-Started/Safety-first.md>
 
 What is a closed loop system <./Getting-Started/ClosedLoop.md>
 
-What is a closed loop system with AndroidAPS <./Getting-Started/WhatisAndroidAPS.md>
+Safety first <./Getting-Started/Safety-first.md> What is a closed loop system <./Getting-Started/ClosedLoop.md> What is a closed loop system with AndroidAPS <./Getting-Started/WhatisAndroidAPS.md> Docs updates & changes <./Getting-Started/WikiUpdate.md> :::<./Getting-Started/WhatisAndroidAPS.md>
 
 Docs updates & changes <./Getting-Started/WikiUpdate.md>
 
@@ -116,7 +116,7 @@ Dev branch <./Installing-AndroidAPS/Dev_branch.md>
 :::{toctree}
 :caption: Component Setup
 
-CGM/FGM <./Configuration/BG-Source.md>
+BG<./Configuration/BG-Source.md>
 
 xDrip Settings <./Configuration/xdrip.md>
 
@@ -210,7 +210,7 @@ Nightscout client <./Usage/Troubleshooting-NSClient.md>
 :::{toctree}
 :caption: FAQ
 
-FAQ <./Getting-Started/FAQ.md>
+FAQ <./Getting-Started/FAQ.md> :::<./Getting-Started/FAQ.md>
 
 :::
 
@@ -244,7 +244,7 @@ For Clinicians <./Resources/clinician-guide-to-AndroidAPS.md>
 
 How to help <./Getting-Started/How-can-I-help.md>
 
-How to translate the app and docs <./translations.md>
+How to help <./Getting-Started/How-can-I-help.md> How to translate the app and docs <./translations.md> How to edit the docs <./make-a-PR.md> :::<./translations.md>
 
 How to edit the docs <./make-a-PR.md>
 
@@ -253,7 +253,7 @@ How to edit the docs <./make-a-PR.md>
 :::{toctree}
 :caption: Sandbox
 
-Sandbox <./Sandbox/sandbox1.md>
+Sandbox <./Sandbox/sandbox1.md> :::<./Sandbox/sandbox1.md>
 
 :::
 
@@ -265,5 +265,6 @@ Sandbox <./Sandbox/sandbox1.md>
 - All product and company names, trademarks, servicemarks, registered trademarks, and registered servicemarks are the property of their respective holders. Their use is for information purposes and does not imply any affiliation with or endorsement by them.
 
 Please note - this project has no association with and is not endorsed by: [SOOIL](https://www.sooil.com/eng/), [Dexcom](https://www.dexcom.com/), [Accu-Chek, Roche Diabetes Care](https://www.accu-chek.com/) or [Medtronic](https://www.medtronic.com/)
+:::
 
 :::
