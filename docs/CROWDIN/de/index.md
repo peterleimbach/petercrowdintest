@@ -8,12 +8,12 @@ The app does NOT use self-learning artificial intelligence. Instead, the calcula
 
 The app is not provided in Google Play - you have to build it from source code by yourself for legal reasons.
 
-:::{admonition} um Hilfe bitten - Schreiben von Docs
+```{admonition} Ask for help - Writing Docs
 :class: note
 
-Bitte scheuen Sie sich nicht, wir benötigen Unterstützung beim Erstellen der Dokumentation. Ein Pull-Request ist relativ einfach zu erstellen. Du kannst nichts zerstören. Es gibt Freigabeverfahren. Wenn du am Anfang reden möchtest um zu sehen, wie du helfen kannst, gib uns einen Shout auf Discord oder Facebook. In dieser Zeit Ein Telco ist schnell arrangiert und wir diskutieren darüber, wie Sie sich am besten einbringen können und wie wir Ihnen die ersten Schritte zeigen können.
+Please don't be shy, we need support in creating the documentation. Ein Pull-Request ist relativ einfach zu erstellen. Du kannst nichts zerstören. Es gibt Freigabeverfahren. Wenn du am Anfang reden möchtest um zu sehen, wie du helfen kannst, gib uns einen Shout auf Discord oder Facebook. In dieser Zeit Ein Telco ist schnell arrangiert und wir diskutieren darüber, wie Sie sich am besten einbringen können und wie wir Ihnen die ersten Schritte zeigen können.
 
-:::
+```
 
 ## How to read the documentation?
 
@@ -43,43 +43,39 @@ There is a subsection for the [clinicians](Resources/clinician-guide-to-AndroidA
 
 Finally, in the subsection [How to help?](make-a-PR.md) we would like to provide you with information so that you are able to suggest small or larger changes to the documentation yourself and work together with us on the documentation. We further need support for [translation of the documentation](translations.md) By the way, it also very helpful for everyone if you could provide links to the corresponding documentation (or screenshots of where the links are located within the Documentation if you are not familiar with how to send a link) when answering questions from other users. That way the correct information can easily be located again should other users also be trying to find answers to the same types of questions in the future.
 
-(translation-help-needed)=
-
-:::{admonition} Ask for help - Translators Neeeded!!!
+```{admonition} Ask for help - Translators Neeeded!!!
 :class: note
 
 The documentation is written in English and translated in different languages. We are searching help by the translation of a) the app and b) the documentation.
 
 The documentation process is explained [here](translations.md).
 
-:::
+```
 
 If your brwoser will not display all icons in once please press refresh. Theses are a lot of static images the browser requests from the internet. The badges are generated with new status every hour.
 
-:::{toctree}
-:caption: Change language
+```{toctree}
+:caption: Sprache ändern
 
-Change language <./changelanguage.md>
+Sprache ändern <./changelanguage.md>
 
-:::
+```
 
-:::{toctree}
-:caption: Getting started
+```{toctree}
+:caption: Erste Schritte
 
-Safety first <./Getting-Started/Safety-first.md>
+Sicherheit zuerst <./Getting-Started/Safety-first.md>
 
-What is a closed loop system <./Getting-Started/ClosedLoop.md>
+Was ist ein geschlossenes Schleifensystem <./Getting-Started/ClosedLoop. d>
 
-What is a closed loop system with AndroidAPS <./Getting-Started/WhatisAndroidAPS.md>
+Was ist ein geschlossenes Schleifensystem mit AndroidAPS <./Getting-Started/WhatisAndroidAPS. d>
 
 Docs updates & changes <./Getting-Started/WikiUpdate.md>
 
-:::
+```
 
-(what-do-i-need)=
-
-:::{toctree}
-:caption: What do I need?
+```{toctree}
+:caption: What do I need&#063;
 
 CGM/FGM choices <./Configuration/BG-Source.md>
 
@@ -87,141 +83,137 @@ Pump choices <./Getting-Started/Pump-Choices.md>
 
 Module <./Module/module.md>
 
-:::
+```
 
-:::{toctree}
-:caption: How to Install AndroidAPS
+```{toctree}
+:caption: Wie installiere ich AndroidAPS
 
-Building the APK <./Installing-AndroidAPS/Building-APK.md>
+Erstelle die APK <. Installing-AndroidAPS/Building-APK.md>
 
-Update to a new version or branch <./Installing-AndroidAPS/Update-to-new-version.md>
+Update auf eine neue Version oder Branch <. Installing-AndroidAPS/Update-to-new-version.md>
 
-Hints and Checks after update to AAPS 3.0<./Installing-AndroidAPS/update3_0.md>
+Hinweise und Überprüft nach dem Update auf AAPS 3.<./Installing-AndroidAPS/update3_0.md>
 
-Checks after update to AAPS 2.7 <./Installing-AndroidAPS/update2_7.md>
+Prüft nach dem Update auf AAPS 2.7 <. Installing-AndroidAPS/update2_7.md>
 
-Install git <./Installing-AndroidAPS/git-install.md>
+Installieren Sie git <./Installing-AndroidAPS/git-install.md>
 
-Troubleshooting Android Studio <./Installing-AndroidAPS/troubleshooting_androidstudio.md>
+Troubleshooting Android Studio <. Installing-AndroidAPS/troubleshooting_androidstudio.md>
 
-Release notes <./Installing-AndroidAPS/Releasenotes.md>
+Release Notes <./Installing-AndroidAPS/Releasenotes.md>
 
 
-Dev branch <./Installing-AndroidAPS/Dev_branch.md>
+Dev Branch <./Installing-AndroidAPS/Dev_branch.md>
 
-:::
+```
 
-(component-setup)=
-
-:::{toctree}
-:caption: Component Setup
+```{toctree}
+:caption: Komponenten-Setup
 
 CGM/FGM <./Configuration/BG-Source.md>
 
-xDrip Settings <./Configuration/xdrip.md>
+xDrip Einstellungen <. Konfiguration/xdrip.m.>
 
-Pump choices <./Getting-Started/Pump-Choices.md>
+Pumpenauswahl <./Getting-Started/Pump-Choices. d>
 
-Phones <./Hardware/Phoneconfig.md>
+Telefone <./Hardware/Phoneconfig.md>
 
-Nightscout setup <./Installing-AndroidAPS/Nightscout.md>
+Nightscout Setup <. Installing-AndroidAPS/Nightscout.md>
 
 Smartwatch  <./Hardware/Smartwatch.md>
 
-:::
+```
 
-(configuration)=
+```{toctree}
+:caption: Konfiguration
 
-:::{toctree}
-:caption: Configuration
+Config-Builder <./Configuration/Config-Builder.md>
 
-Config builder <./Configuration/Config-Builder.md>
+Einstellungen <./Configuration/Preferences.md>
 
-Preferences <./Configuration/Preferences.md>
+```
 
-:::
-
-:::{toctree}
+```{toctree}
 :caption: AndroidAPS Nutzung
 
-AndroidAPS screens <./Getting-Started/Screenshots.md>
+AndroidAPS Bildschirme <./Getting-Started/Screenshots.md>
 
-Objectives <./Usage/Objectives.md>
+Ziele <. Usage/Objectives.md>
 
-OpenAPS features <./Usage/Open-APS-features.md>
+OpenAPS Features <./Usage/Open-APS-features.md>
 
-COB calculation <./Usage/COB-calculation.md>
+COB Berechnung <. Verwendung/COB-calculation.md>
 
-Sensitivity detection <./Configuration/Sensitivity-detection-and-COB.md>
+Sensitivitätserkennung <./Konfiguration/Sensitivity-Detection-and-COB.md>
 
-Profile switch <./Usage/Profiles.md>
+Profile Switch <./Usage/Profiles.md>
 
-Temp-targets <./Usage/temptarget.md>
+Temp-Ziele <. Usage/temptarget.md>
 
-Extended carbs <./Usage/Extended-Carbs.md>
+Erweiterte Carbs <./Usage/Extended-Carbs.md>
 
 Automation <./Usage/Automation.md>
 
-Careportal (discontinued) <./Usage/CPbefore26.md>
+Careportal (eingestellt) <./Usage/CPbefore26. d>
 
-Open Humans Uploader <./Configuration/OpenHumans.md>
+Offener Humans Uploader <./Configuration/OpenHumans.md>
 
-Automation with 3rd party apps <./Usage/automationwithapp.md>
+Automatisierung mit Drittanbieter-Apps <. Verwendung/automationwithapp.md>
 
-Android auto <./Usage/Android-auto.md>
+Android Auto <./Verwenden/Android-auto.md>
 
-:::
+```
 
-:::{toctree}
-:caption: General Hints
+```{toctree}
+:caption: Allgemeine Hinweise
 
-Crossing timezones with pumps <./Usage/Timezone-traveling.md>
+Zeitzonen mit Pumpen <./Usage/Timezone-traveling kreuzen. d>
 
-Accessing logfiles <./Usage/Accessing-logfiles.md>
+Zugriff auf Logdateien <./Usage/Accessing-logfiles.md>
 
-Accu-Chek Combo tips for basic usage <./Usage/Accu-Chek-Combo-Tips-for-Basic-usage.md>
+Accu-Chek Combo Tipps für einfache Nutzung <. Usage/Accu-Chek-Combo-Tips-for-Basic-usage.md>
 
-Export/Import Settings <./Usage/ExportImportSettings.md>
+Export/Import Einstellungen <./Usage/ExportImportSettings.md>
 
-xDrip engineering mode <./Usage/Enabling-Engineering-Mode-in-xDrip.md>
+xDrip Engineering Mode <./Usage/Enabling-Engineering-Mode-in-xDrip.md>
 
-:::
+```
 
-:::{toctree}
-:caption: AndroidAPS for children
+```{toctree}
+:caption: AndroidAPS für Kinder
 
-Remote monitoring <./Children/Children.md>
+Fernüberwachung <./Kinder/Kinder.md>
 
-SMS commands <./Children/SMS-Commands.md>
+SMS-Befehle <./Children/SMS-Commands.md>
 
-Profile helper <./Configuration/profilehelper.md>
+Profil-Helfer <./Configuration/profilehelper.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: Troubleshooting
 
 Troubleshooting <./Usage/troubleshooting.md>
 
 Nightscout client <./Usage/Troubleshooting-NSClient.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: FAQ
 
 FAQ <./Getting-Started/FAQ.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: Glossary
 
 Glossary <./Getting-Started/Glossary.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: Where to go for help
 
 Useful resources to read before you start <./Where-To-Go-For-Help/Background-reading.md>
@@ -230,16 +222,16 @@ Where to go for help <./Where-To-Go-For-Help/Connect-with-other-users.md>
 
 Docs updates & changes <./Getting-Started/WikiUpdate.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: For Clinicians
 
 For Clinicians <./Resources/clinician-guide-to-AndroidAPS.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: How to help
 
 How to help <./Getting-Started/How-can-I-help.md>
@@ -248,22 +240,22 @@ How to translate the app and docs <./translations.md>
 
 How to edit the docs <./make-a-PR.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: Sandbox
 
 Sandbox <./Sandbox/sandbox1.md>
 
-:::
+```
 
-:::{admonition} **Disclaimer And Warning**
+```{admonition} **Disclaimer And Warning**
 :class: warning
 
 - All information, thought, and code described here is intended for informational and educational purposes only. Nightscout currently makes no attempt at HIPAA privacy compliance. Use Nightscout and AndroidAPS at your own risk, and do not use the information or code to make medical decisions.
 - Use of code from github.com is without warranty or formal support of any kind. Please review this repository's LICENSE for details.
 - All product and company names, trademarks, servicemarks, registered trademarks, and registered servicemarks are the property of their respective holders. Their use is for information purposes and does not imply any affiliation with or endorsement by them.
 
-Please note - this project has no association with and is not endorsed by: [SOOIL](https://www.sooil.com/eng/), [Dexcom](https://www.dexcom.com/), [Accu-Chek, Roche Diabetes Care](https://www.accu-chek.com/) or [Medtronic](https://www.medtronic.com/)
+Please note - this project has no association with and is not endorsed by: [SOOIL](<https://www.sooil.com/eng/>), [Dexcom](<https://www.dexcom.com/>), [Accu-Chek, Roche Diabetes Care](<https://www.accu-chek.com/>) or [Medtronic](<https://www.medtronic.com/>)
 
-:::
+```
