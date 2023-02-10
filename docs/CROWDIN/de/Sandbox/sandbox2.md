@@ -1,12 +1,12 @@
-# internal sandbox file 2 for testing
+# interne Sandbox-Datei 2 für Testen
 
 ```{admonition} no need to translate this
 :class: note
 
-No need to translate this.
+Es ist nicht notwendig dies zu übersetzen.
 ```
 
-This is an internal sandbox file for the documentation team to test
+Dies ist eine interne Sandbox-Datei für das Dokumentationsteam zum Testen
 
 1. markdown syntax and
 

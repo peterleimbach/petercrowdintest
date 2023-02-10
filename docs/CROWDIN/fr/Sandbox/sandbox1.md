@@ -3,10 +3,10 @@
 ```{admonition} no need to translate this
 :class: note
 
-No need to translate this.
+Inutile de traduire ceci.
 ```
 
-This is an internal sandbox file for the documentation team to test
+Ceci est un fichier sandbox interne pour que l'équipe de documentation puisse tester
 
 1. markdown syntax and
 
@@ -14,13 +14,13 @@ This is an internal sandbox file for the documentation team to test
     1. CROWDIN translation and
     2. Read The Docs deployment.
 
-You can dirctly jump from here to the second label in this file - ["Sauter"](#this-is-another-test).
+Vous pouvez sauter de saleté d'ici à la deuxième étiquette dans ce fichier - ["Sauter"](#this-is-another-test).
 
-And you can jump to the first label too - ["Sauter"](#this-is-a-test).
+Et tu peux aussi aller à la première étiquette - ["Sauter"](#this-is-a-test).
 
-Here you can jump to the second sandbox file - ["Sauter"](./sandbox2.md).
+Ici tu peux aller au deuxième fichier sandbox - ["Sauter"](./sandbox2.md).
 
-You can dirctly jump from here to the first label in the sandbox2.md file - ["Sauter"](./sandbox2.md#this-is-a-test).
+Vous pouvez sauter salement d'ici à la première étiquette dans le fichier sandbox2.md - ["Sauter"](./sandbox2.md#this-is-a-test).
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
