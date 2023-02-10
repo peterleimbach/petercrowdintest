@@ -64,13 +64,13 @@ Change language <./changelanguage.md>
 ```
 
 ```{toctree}
-:caption: Getting started
+:caption: Erste Schritte
 
-Safety first <./Getting-Started/Safety-first.md>
+Sicherheit zuerst <./Getting-Started/Safety-first.md>
 
-What is a closed loop system <./Getting-Started/ClosedLoop.md>
+Was ist ein geschlossenes Schleifensystem <./Getting-Started/ClosedLoop. d>
 
-What is a closed loop system with AndroidAPS <./Getting-Started/WhatisAndroidAPS.md>
+Was ist ein geschlossenes Schleifensystem mit AndroidAPS <./Getting-Started/WhatisAndroidAPS. d>
 
 Docs updates & changes <./Getting-Started/WikiUpdate.md>
 
@@ -90,24 +90,24 @@ Module <./Module/module.md>
 ```
 
 ```{toctree}
-:caption: How to Install AndroidAPS
+:caption: Wie installiere ich AndroidAPS
 
-Building the APK <./Installing-AndroidAPS/Building-APK.md>
+Erstelle die APK <. Installing-AndroidAPS/Building-APK.md>
 
-Update to a new version or branch <./Installing-AndroidAPS/Update-to-new-version.md>
+Update auf eine neue Version oder Branch <. Installing-AndroidAPS/Update-to-new-version.md>
 
-Hints and Checks after update to AAPS 3.0<./Installing-AndroidAPS/update3_0.md>
+Hinweise und Überprüft nach dem Update auf AAPS 3.<./Installing-AndroidAPS/update3_0.md>
 
-Checks after update to AAPS 2.7 <./Installing-AndroidAPS/update2_7.md>
+Prüft nach dem Update auf AAPS 2.7 <. Installing-AndroidAPS/update2_7.md>
 
-Install git <./Installing-AndroidAPS/git-install.md>
+Installieren Sie git <./Installing-AndroidAPS/git-install.md>
 
-Troubleshooting Android Studio <./Installing-AndroidAPS/troubleshooting_androidstudio.md>
+Troubleshooting Android Studio <. Installing-AndroidAPS/troubleshooting_androidstudio.md>
 
-Release notes <./Installing-AndroidAPS/Releasenotes.md>
+Release Notes <./Installing-AndroidAPS/Releasenotes.md>
 
 
-Dev branch <./Installing-AndroidAPS/Dev_branch.md>
+Dev Branch <./Installing-AndroidAPS/Dev_branch.md>
 
 ```
 
