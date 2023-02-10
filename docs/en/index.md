@@ -8,12 +8,12 @@ The app does NOT use self-learning artificial intelligence. Instead, the calcula
 
 The app is not provided in Google Play - you have to build it from source code by yourself for legal reasons.
 
-:::{admonition} Ask for help - Writing Docs
+```{admonition} Ask for help - Writing Docs
 :class: note
 
 Please don't be shy, we need support in creating the documentation. A pull request is relatively simple to create. You can't break anything. There are release procedures. If you just want to talk in the beginning to see how you can help, give us a shout on Discord or Facebook. In this day and age, a telco is quickly arranged and we can discuss how you can best get involved and how we can show you the first steps.
 
-:::
+```
 
 ## How to read the documentation?
 
@@ -45,25 +45,25 @@ Finally, in the subsection [How to help?](make-a-PR.md) we would like to provide
 
 (translation-help-needed)=
 
-:::{admonition} Ask for help - Translators Neeeded!!!
+```{admonition} Ask for help - Translators Neeeded!!!
 :class: note
 
 The documentation is written in English and translated in different languages. We are searching help by the translation of a) the app and b) the documentation.
 
 The documentation process is explained [here](translations.md).
 
-:::
+```
 
 If your brwoser will not display all icons in once please press refresh. Theses are a lot of static images the browser requests from the internet. The badges are generated with new status every hour.
 
-:::{toctree}
+```{toctree}
 :caption: Change language
 
 Change language <./changelanguage.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: Getting started
 
 Safety first <./Getting-Started/Safety-first.md>
@@ -74,11 +74,11 @@ What is a closed loop system with AndroidAPS <./Getting-Started/WhatisAndroidAPS
 
 Docs updates & changes <./Getting-Started/WikiUpdate.md>
 
-:::
+```
 
 (what-do-i-need)=
 
-:::{toctree}
+```{toctree}
 :caption: What do I need?
 
 CGM/FGM choices <./Configuration/BG-Source.md>
@@ -87,9 +87,9 @@ Pump choices <./Getting-Started/Pump-Choices.md>
 
 Module <./Module/module.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: How to Install AndroidAPS
 
 Building the APK <./Installing-AndroidAPS/Building-APK.md>
@@ -109,11 +109,11 @@ Release notes <./Installing-AndroidAPS/Releasenotes.md>
 
 Dev branch <./Installing-AndroidAPS/Dev_branch.md>
 
-:::
+```
 
 (component-setup)=
 
-:::{toctree}
+```{toctree}
 :caption: Component Setup
 
 CGM/FGM <./Configuration/BG-Source.md>
@@ -128,20 +128,20 @@ Nightscout setup <./Installing-AndroidAPS/Nightscout.md>
 
 Smartwatch  <./Hardware/Smartwatch.md>
 
-:::
+```
 
 (configuration)=
 
-:::{toctree}
+```{toctree}
 :caption: Configuration
 
 Config builder <./Configuration/Config-Builder.md>
 
 Preferences <./Configuration/Preferences.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: AndroidAPS Usage
 
 AndroidAPS screens <./Getting-Started/Screenshots.md>
@@ -170,9 +170,9 @@ Automation with 3rd party apps <./Usage/automationwithapp.md>
 
 Android auto <./Usage/Android-auto.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: General Hints
 
 Crossing timezones with pumps <./Usage/Timezone-traveling.md>
@@ -185,9 +185,9 @@ Export/Import Settings <./Usage/ExportImportSettings.md>
 
 xDrip engineering mode <./Usage/Enabling-Engineering-Mode-in-xDrip.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: AndroidAPS for children
 
 Remote monitoring <./Children/Children.md>
@@ -196,32 +196,32 @@ SMS commands <./Children/SMS-Commands.md>
 
 Profile helper <./Configuration/profilehelper.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: Troubleshooting
 
 Troubleshooting <./Usage/troubleshooting.md>
 
 Nightscout client <./Usage/Troubleshooting-NSClient.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: FAQ
 
 FAQ <./Getting-Started/FAQ.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: Glossary
 
 Glossary <./Getting-Started/Glossary.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: Where to go for help
 
 Useful resources to read before you start <./Where-To-Go-For-Help/Background-reading.md>
@@ -230,16 +230,16 @@ Where to go for help <./Where-To-Go-For-Help/Connect-with-other-users.md>
 
 Docs updates & changes <./Getting-Started/WikiUpdate.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: For Clinicians
 
 For Clinicians <./Resources/clinician-guide-to-AndroidAPS.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: How to help
 
 How to help <./Getting-Started/How-can-I-help.md>
@@ -248,16 +248,16 @@ How to translate the app and docs <./translations.md>
 
 How to edit the docs <./make-a-PR.md>
 
-:::
+```
 
-:::{toctree}
+```{toctree}
 :caption: Sandbox
 
 Sandbox <./Sandbox/sandbox1.md>
 
-:::
+```
 
-:::{admonition} **Disclaimer And Warning**
+```{admonition} **Disclaimer And Warning**
 :class: warning
 
 - All information, thought, and code described here is intended for informational and educational purposes only. Nightscout currently makes no attempt at HIPAA privacy compliance. Use Nightscout and AndroidAPS at your own risk, and do not use the information or code to make medical decisions.
@@ -266,4 +266,4 @@ Sandbox <./Sandbox/sandbox1.md>
 
 Please note - this project has no association with and is not endorsed by: [SOOIL](<https://www.sooil.com/eng/>), [Dexcom](<https://www.dexcom.com/>), [Accu-Chek, Roche Diabetes Care](<https://www.accu-chek.com/>) or [Medtronic](<https://www.medtronic.com/>)
 
-:::
+```
