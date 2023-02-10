@@ -9,8 +9,6 @@ The app does NOT use self-learning artificial intelligence. Instead, the calcula
 The app is not provided in Google Play - you have to build it from source code by yourself for legal reasons.
 
 ```{admonition} Ask for help - Writing Docs
-:class: note
-
 Please don't be shy, we need support in creating the documentation. A pull request is relatively simple to create. You can't break anything. There are release procedures. If you just want to talk in the beginning to see how you can help, give us a shout on Discord or Facebook. In this day and age, a telco is quickly arranged and we can discuss how you can best get involved and how we can show you the first steps.
 
 ```
@@ -44,11 +42,11 @@ There is a subsection for the [clinicians](Resources/clinician-guide-to-AndroidA
 Finally, in the subsection [How to help?](make-a-PR.md) we would like to provide you with information so that you are able to suggest small or larger changes to the documentation yourself and work together with us on the documentation. We further need support for [translation of the documentation](translations.md) By the way, it also very helpful for everyone if you could provide links to the corresponding documentation (or screenshots of where the links are located within the Documentation if you are not familiar with how to send a link) when answering questions from other users. That way the correct information can easily be located again should other users also be trying to find answers to the same types of questions in the future.
 
 ```{admonition} Ask for help - Translators Neeeded!!!
-:class: note
+We are searching help by the translation of a) the app and b) the documentation. :class: note
 
-The documentation is written in English and translated in different languages. We are searching help by the translation of a) the app and b) the documentation.
+The documentation is written in English and translated in different languages.
 
-The documentation process is explained [here](translations.md).
+The documentation process is explained <a href="translations.md">here</a>.
 
 ```
 
@@ -62,20 +60,13 @@ Change language <./changelanguage.md>
 ```
 
 ```{toctree}
-:caption: Getting started
-
-Safety first <./Getting-Started/Safety-first.md>
-
-What is a closed loop system <./Getting-Started/ClosedLoop.md>
-
-What is a closed loop system with AndroidAPS <./Getting-Started/WhatisAndroidAPS.md>
-
-Docs updates & changes <./Getting-Started/WikiUpdate.md>
+Safety first <./Getting-Started/Safety-first.md> What is a closed loop system <./Getting-Started/ClosedLoop.md> What is a closed loop system with AndroidAPS <./Getting-Started/WhatisAndroidAPS.md> Docs updates & changes <./Getting-Started/WikiUpdate.md>
+:::
 
 ```
 
 ```{toctree}
-:caption: What do I need&#063;
+:caption: What do I need
 
 CGM/FGM choices <./Configuration/BG-Source.md>
 
@@ -200,9 +191,8 @@ Nightscout client <./Usage/Troubleshooting-NSClient.md>
 ```
 
 ```{toctree}
-:caption: FAQ
-
 FAQ <./Getting-Started/FAQ.md>
+:::
 
 ```
 
@@ -225,37 +215,29 @@ Docs updates & changes <./Getting-Started/WikiUpdate.md>
 ```
 
 ```{toctree}
+:::{toctree}<br x-id="2" />
 :caption: For Clinicians
 
-For Clinicians <./Resources/clinician-guide-to-AndroidAPS.md>
+```
+
+```{toctree}
+How to help <./Getting-Started/How-can-I-help.md> How to translate the app and docs <./translations.md> How to edit the docs <./make-a-PR.md>
+:::
 
 ```
 
 ```{toctree}
-:caption: How to help
-
-How to help <./Getting-Started/How-can-I-help.md>
-
-How to translate the app and docs <./translations.md>
-
-How to edit the docs <./make-a-PR.md>
-
-```
-
-```{toctree}
-:caption: Sandbox
-
 Sandbox <./Sandbox/sandbox1.md>
+:::
 
 ```
 
 ```{admonition} **Disclaimer And Warning**
-:class: warning
-
-- All information, thought, and code described here is intended for informational and educational purposes only. Nightscout currently makes no attempt at HIPAA privacy compliance. Use Nightscout and AndroidAPS at your own risk, and do not use the information or code to make medical decisions.
+All information, thought, and code described here is intended for informational and educational purposes only. Nightscout currently makes no attempt at HIPAA privacy compliance. Use Nightscout and AndroidAPS at your own risk, and do not use the information or code to make medical decisions.
 - Use of code from github.com is without warranty or formal support of any kind. Please review this repository's LICENSE for details.
 - All product and company names, trademarks, servicemarks, registered trademarks, and registered servicemarks are the property of their respective holders. Their use is for information purposes and does not imply any affiliation with or endorsement by them.
 
-Please note - this project has no association with and is not endorsed by: [SOOIL](<https://www.sooil.com/eng/>), [Dexcom](<https://www.dexcom.com/>), [Accu-Chek, Roche Diabetes Care](<https://www.accu-chek.com/>) or [Medtronic](<https://www.medtronic.com/>)
+Please note - this project has no association with and is not endorsed by: <a href="https://www.sooil.com/eng/">SOOIL</a>, <a href="https://www.dexcom.com/">Dexcom</a>, <a href="https://www.accu-chek.com/">Accu-Chek, Roche Diabetes Care</a> or <a href="https://www.medtronic.com/">Medtronic</a>
+:::
 
 ```
