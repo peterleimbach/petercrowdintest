@@ -75,7 +75,7 @@ Docs updates & changes <./Getting-Started/WikiUpdate.md>
 ```
 
 ```{toctree}
-:caption: What do I need?
+:caption: What do I need
 
 CGM/FGM choices <./Configuration/BG-Source.md>
 
