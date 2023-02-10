@@ -43,8 +43,6 @@ There is a subsection for the [clinicians](Resources/clinician-guide-to-AndroidA
 
 Finally, in the subsection [How to help?](make-a-PR.md) we would like to provide you with information so that you are able to suggest small or larger changes to the documentation yourself and work together with us on the documentation. We further need support for [translation of the documentation](translations.md) By the way, it also very helpful for everyone if you could provide links to the corresponding documentation (or screenshots of where the links are located within the Documentation if you are not familiar with how to send a link) when answering questions from other users. That way the correct information can easily be located again should other users also be trying to find answers to the same types of questions in the future.
 
-(translation-help-needed)=
-
 ```{admonition} Ask for help - Translators Neeeded!!!
 :class: note
 
@@ -75,8 +73,6 @@ Was ist ein geschlossenes Schleifensystem mit AndroidAPS <./Getting-Started/What
 Docs updates & changes <./Getting-Started/WikiUpdate.md>
 
 ```
-
-(what-do-i-need)=
 
 ```{toctree}
 :caption: What do I need?
@@ -111,8 +107,6 @@ Dev Branch <./Installing-AndroidAPS/Dev_branch.md>
 
 ```
 
-(component-setup)=
-
 ```{toctree}
 :caption: Component Setup
 
@@ -129,8 +123,6 @@ Nightscout setup <./Installing-AndroidAPS/Nightscout.md>
 Smartwatch  <./Hardware/Smartwatch.md>
 
 ```
-
-(configuration)=
 
 ```{toctree}
 :caption: Configuration
