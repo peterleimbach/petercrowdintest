@@ -55,9 +55,9 @@ The documentation process is explained [here](translations.md).
 If your brwoser will not display all icons in once please press refresh. Theses are a lot of static images the browser requests from the internet. The badges are generated with new status every hour.
 
 ```{toctree}
-:caption: Change language
+:caption: Sprache ändern
 
-Change language <./changelanguage.md>
+Sprache ändern <./changelanguage.md>
 
 ```
 
@@ -75,7 +75,7 @@ Docs updates & changes <./Getting-Started/WikiUpdate.md>
 ```
 
 ```{toctree}
-:caption: What do I need?
+:caption: What do I need
 
 CGM/FGM choices <./Configuration/BG-Source.md>
 
@@ -108,85 +108,85 @@ Dev Branch <./Installing-AndroidAPS/Dev_branch.md>
 ```
 
 ```{toctree}
-:caption: Component Setup
+:caption: Komponenten-Setup
 
 CGM/FGM <./Configuration/BG-Source.md>
 
-xDrip Settings <./Configuration/xdrip.md>
+xDrip Einstellungen <. Konfiguration/xdrip.m.>
 
-Pump choices <./Getting-Started/Pump-Choices.md>
+Pumpenauswahl <./Getting-Started/Pump-Choices. d>
 
-Phones <./Hardware/Phoneconfig.md>
+Telefone <./Hardware/Phoneconfig.md>
 
-Nightscout setup <./Installing-AndroidAPS/Nightscout.md>
+Nightscout Setup <. Installing-AndroidAPS/Nightscout.md>
 
 Smartwatch  <./Hardware/Smartwatch.md>
 
 ```
 
 ```{toctree}
-:caption: Configuration
+:caption: Konfiguration
 
-Config builder <./Configuration/Config-Builder.md>
+Config-Builder <./Configuration/Config-Builder.md>
 
-Preferences <./Configuration/Preferences.md>
+Einstellungen <./Configuration/Preferences.md>
 
 ```
 
 ```{toctree}
-:caption: AndroidAPS Usage
+:caption: AndroidAPS Nutzung
 
-AndroidAPS screens <./Getting-Started/Screenshots.md>
+AndroidAPS Bildschirme <./Getting-Started/Screenshots.md>
 
-Objectives <./Usage/Objectives.md>
+Ziele <. Usage/Objectives.md>
 
-OpenAPS features <./Usage/Open-APS-features.md>
+OpenAPS Features <./Usage/Open-APS-features.md>
 
-COB calculation <./Usage/COB-calculation.md>
+COB Berechnung <. Verwendung/COB-calculation.md>
 
-Sensitivity detection <./Configuration/Sensitivity-detection-and-COB.md>
+Sensitivitätserkennung <./Konfiguration/Sensitivity-Detection-and-COB.md>
 
-Profile switch <./Usage/Profiles.md>
+Profile Switch <./Usage/Profiles.md>
 
-Temp-targets <./Usage/temptarget.md>
+Temp-Ziele <. Usage/temptarget.md>
 
-Extended carbs <./Usage/Extended-Carbs.md>
+Erweiterte Carbs <./Usage/Extended-Carbs.md>
 
 Automation <./Usage/Automation.md>
 
-Careportal (discontinued) <./Usage/CPbefore26.md>
+Careportal (eingestellt) <./Usage/CPbefore26. d>
 
-Open Humans Uploader <./Configuration/OpenHumans.md>
+Offener Humans Uploader <./Configuration/OpenHumans.md>
 
-Automation with 3rd party apps <./Usage/automationwithapp.md>
+Automatisierung mit Drittanbieter-Apps <. Verwendung/automationwithapp.md>
 
-Android auto <./Usage/Android-auto.md>
-
-```
-
-```{toctree}
-:caption: General Hints
-
-Crossing timezones with pumps <./Usage/Timezone-traveling.md>
-
-Accessing logfiles <./Usage/Accessing-logfiles.md>
-
-Accu-Chek Combo tips for basic usage <./Usage/Accu-Chek-Combo-Tips-for-Basic-usage.md>
-
-Export/Import Settings <./Usage/ExportImportSettings.md>
-
-xDrip engineering mode <./Usage/Enabling-Engineering-Mode-in-xDrip.md>
+Android Auto <./Verwenden/Android-auto.md>
 
 ```
 
 ```{toctree}
-:caption: AndroidAPS for children
+:caption: Allgemeine Hinweise
 
-Remote monitoring <./Children/Children.md>
+Zeitzonen mit Pumpen <./Usage/Timezone-traveling kreuzen. d>
 
-SMS commands <./Children/SMS-Commands.md>
+Zugriff auf Logdateien <./Usage/Accessing-logfiles.md>
 
-Profile helper <./Configuration/profilehelper.md>
+Accu-Chek Combo Tipps für einfache Nutzung <. Usage/Accu-Chek-Combo-Tips-for-Basic-usage.md>
+
+Export/Import Einstellungen <./Usage/ExportImportSettings.md>
+
+xDrip Engineering Mode <./Usage/Enabling-Engineering-Mode-in-xDrip.md>
+
+```
+
+```{toctree}
+:caption: AndroidAPS für Kinder
+
+Fernüberwachung <./Kinder/Kinder.md>
+
+SMS-Befehle <./Children/SMS-Commands.md>
+
+Profil-Helfer <./Configuration/profilehelper.md>
 
 ```
 
