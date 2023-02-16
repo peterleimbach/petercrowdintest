@@ -6,7 +6,7 @@
 Es ist nicht notwendig dies zu übersetzen.
 ```
 
-Here is an unoreder list.
+Here is an unordered list.
 
 * one paragraph
 * one paragraph
