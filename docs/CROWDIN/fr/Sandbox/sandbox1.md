@@ -6,6 +6,12 @@
 Inutile de traduire ceci.
 ```
 
+Here is an unordered list.
+
+* one paragraph
+* one paragraph
+* one paragraph
+
 Ceci est un fichier sandbox interne pour que l'équipe de documentation puisse tester
 
 1. markdown syntax and
