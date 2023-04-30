@@ -14,6 +14,50 @@ meaning you can add longer form content here,
 without it taking up too much space on the page.
 :::
 
+:::{caution}
+Caution, Caution, Caution, ;-)
+:::
+
+:::{danger}
+Danger on the road.
+:::
+
+:::{error
+This is a fatal error.
+:::
+
+:::{hint}
+Here comes a special hint
+:::
+
+:::{important}
+And this is really important.
+:::
+
+:::{note}
+This is just a short note.
+:::
+
+:::{seealso}
+Please read the news paper too.
+:::
+
+:::{tip}
+Another tip my friend.
+:::
+
+:::{versionadded} 1.2.3
+Explanation of the new feature.
+:::
+
+:::{versionchanged} 1.2.3
+Explanation of the change.
+:::
+
+:::{deprecated} 1.2.3
+Explanation of the deprecation.
+:::
+
 Here is an unordered list.
 
 * one paragraph
