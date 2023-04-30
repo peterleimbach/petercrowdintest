@@ -5,7 +5,7 @@
 No need to translate this.
 :::
 
-:::{danger} no need to translate this
+:::{tip} further detailed readings for interested readers
 :class: dropdown
 
 This admonition has been collapsed,
