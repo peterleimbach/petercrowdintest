@@ -1,10 +1,14 @@
 # internal sandbox file 1 for testing
 
-```{admonition} no need to translate this
-:class: note
+:::{admonition} no need to translate this
+:class: note No need to translate this.
+:::
 
-Es ist nicht notwendig dies zu übersetzen.
-```
+:::{tip} further detailed readings for interested readers
+:class: dropdown
+
+This admonition has been collapsed, meaning you can add longer form content here, without it taking up too much space on the page.
+:::
 
 Here is an unoreder list.
 
