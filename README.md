@@ -1,5 +1,5 @@
 # petercrowdintest
-simple test repo for crowdin test setup and use inkluding integrations
+simple test repo for crowdin test setup and use including integrations
 
 ```[admonition} This is a test note
 :class: note
