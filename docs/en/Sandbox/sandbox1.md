@@ -1,10 +1,17 @@
 # internal sandbox file 1 for testing
 
-```{admonition} no need to translate this
+:::{admonition} no need to translate this
 :class: note
 
 No need to translate this.
-```
+:::
+
+
+:::{danger} no need to translate this
+:class: note
+
+No need to translate this.
+:::
 
 Here is an unordered list.
 
