@@ -3,6 +3,7 @@
 :::{admonition} no need to translate this
 :class: note
 No need to translate this.
+
 :::
 
 :::{tip} further detailed readings for interested readers
@@ -11,6 +12,7 @@ No need to translate this.
 This admonition has been collapsed,
 meaning you can add longer form content here,
 without it taking up too much space on the page.
+
 :::
 
 Here is an unordered list.
