@@ -46,18 +46,6 @@ Please read the news paper too.
 Another tip my friend.
 :::
 
-:::{versionadded} 1.2.3
-Explanation of the new feature.
-:::
-
-:::{versionchanged} 1.2.3
-Explanation of the change.
-:::
-
-:::{deprecated} 1.2.3
-Explanation of the deprecation.
-:::
-
 Here is an unordered list.
 
 * one paragraph
