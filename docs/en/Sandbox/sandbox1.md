@@ -22,7 +22,7 @@ Caution, Caution, Caution, ;-)
 Danger on the road.
 :::
 
-:::{error
+:::{error}
 This is a fatal error.
 :::
 
