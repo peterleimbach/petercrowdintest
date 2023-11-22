@@ -6,11 +6,6 @@ build:
    tools:
     python: "3.11"
 
-# Python
-python:
-  install:
-    - requirements: ./requirements.txt
-
 # Sphinx
 sphinx:
   builder: html
