@@ -1,12 +1,50 @@
 # internal sandbox file 1 for testing
 
-```{admonition} no need to translate this
+:::{admonition} no need to translate this
 :class: note
 
-Inutile de traduire ceci.
-```
+No need to translate this.
+:::
 
-Here is an unordered list.
+:::{tip} further detailed readings for interested readers
+:class: dropdown
+
+This admonition has been collapsed, meaning you can add longer form content here, without it taking up too much space on the page.
+:::
+
+:::{caution}
+Caution, Caution, Caution, ;-)
+:::
+
+:::{danger}
+Danger on the road.
+:::
+
+:::{error}
+This is a fatal error.
+:::
+
+:::{hint}
+Here comes a special hint
+:::
+
+:::{important}
+And this is really important.
+:::
+
+:::{note}
+This is just a short note.
+:::
+
+:::{seealso}
+Please read the news paper too.
+:::
+
+:::{tip}
+Another tip my friend.
+:::
+
+Here is an unoreder list.
 
 * one paragraph
 * one paragraph
