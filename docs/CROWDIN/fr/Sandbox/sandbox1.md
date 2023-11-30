@@ -3,7 +3,8 @@
 :::{admonition} no need to translate this
 :class: note
 
-No need to translate this.
+:::{admonition} no need to translate this
+:class: note No need to translate this.
 :::
 
 :::{tip} further detailed readings for interested readers
