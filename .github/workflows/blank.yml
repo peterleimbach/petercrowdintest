@@ -35,5 +35,5 @@ jobs:
         shell: bash
 
       - name: Echo Pull Request Number
-        run: echo "$GITHUB_REF"
+        run: echo ${{ env.PULL_NUMBER }}
         shell: bash
