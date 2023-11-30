@@ -1,9 +1,9 @@
 # internal sandbox file 1 for testing
 
-:::{admonition} no need to translate this
-:class: note
+:class: note No need to translate this.
 
-No need to translate this.
+:::{admonition} no need to translate this
+:class: note No need to translate this.
 :::
 
 :::{tip} further detailed readings for interested readers
