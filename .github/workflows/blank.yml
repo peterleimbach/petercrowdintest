@@ -32,5 +32,8 @@ jobs:
 
       - name: Get Pull Request Number
         run: echo "PULL_NUMBER=$(echo "$GITHUB_REF" | awk -F / '{print $3}')" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Echo Pull Request Number
         run: echo "$GITHUB_REF"
         shell: bash
