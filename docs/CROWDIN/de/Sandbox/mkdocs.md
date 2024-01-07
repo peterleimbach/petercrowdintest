@@ -7,8 +7,8 @@ This is a note
 
 ## Test2
 
-This is a link to [Google](https://www.google.com).
+Dies ist ein Link zu [Google](https://www.google.com).
 
-This is an external link [Wikipedia](https://www.wikipedia.org).
+Dies ist ein externer Link [Wikipedia](https://www.wikipedia.org).
 
 Ei, ei, ei
