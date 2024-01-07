@@ -9,4 +9,6 @@ This is a note
 
 This is a link to [Google](https://www.google.com).
 
+This is an external link [Wikipedia](https://www.wikipedia.org).
+
 Ei, ei, ei
