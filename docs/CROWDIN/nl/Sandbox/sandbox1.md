@@ -6,6 +6,8 @@
 :class: note No need to translate this.
 :::
 
+This is an external link [Wikipedia](https://www.wikipedia.org).
+
 :::{tip} further detailed readings for interested readers
 :class: dropdown
 
